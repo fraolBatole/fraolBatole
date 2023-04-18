@@ -2,7 +2,7 @@
 
 - 🔭 I'm a Ph.D. student at Iowa State University, working with Dr. Hridesh Rajan. My research focuses on the investigating software engineering and program analysis techniques to enhance deep learning models and LLMs.
 
-- 📫 How to reach me: fraol@iastate.edu
+- 📫 You can reach me at: fraol@iastate.edu
 
 ---
 <p align="center">

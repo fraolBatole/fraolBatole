@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Fraol
 
-- 🔭 I'm a Ph.D. student at Iowa State University, working with Dr. Hridesh Rajan. My research focuses on the investigating software engineering and program analysis techniques to enhance deep learning models and LLMs.
+- 🔭 I'm a Ph.D. student at Tulane University, working with Dr. Hridesh Rajan. My research focuses on investigating software engineering and program analysis techniques to enhance deep learning models, LLMs, and agents.
 
-- 📫 You can reach me at: fraol@iastate.edu
+- 📫 You can reach me at: fbatole@tulane.edu
 
 ---
 <p align="center">
